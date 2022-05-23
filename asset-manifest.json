@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Adobe/static/css/main.d5930fbb.css",
+    "main.js": "/Adobe/static/js/main.14a404d6.js",
+    "static/js/617.b6e65327.chunk.js": "/Adobe/static/js/617.b6e65327.chunk.js",
+    "static/js/787.e0e94790.chunk.js": "/Adobe/static/js/787.e0e94790.chunk.js",
+    "index.html": "/Adobe/index.html",
+    "main.d5930fbb.css.map": "/Adobe/static/css/main.d5930fbb.css.map",
+    "main.14a404d6.js.map": "/Adobe/static/js/main.14a404d6.js.map",
+    "617.b6e65327.chunk.js.map": "/Adobe/static/js/617.b6e65327.chunk.js.map",
+    "787.e0e94790.chunk.js.map": "/Adobe/static/js/787.e0e94790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5930fbb.css",
+    "static/js/main.14a404d6.js"
+  ]
+}
